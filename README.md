@@ -1,6 +1,6 @@
 # 💼 Portfólio de Projetos | Sarah Vitoria
 
-Olá! Eu sou a **Sarah Vitória** e este é o meu portfólio de projetos em Análise de Dados.  
+Olá! Eu sou a **Sarah Vitoria** e este é o meu portfólio de projetos em Análise de Dados.  
 Estou iniciando minha trajetória na área e aqui você encontrará alguns dos meus **primeiros projetos práticos**, desenvolvidos enquanto aprofundo meus estudos em ferramentas e conceitos fundamentais da profissão.
 
 Todos os projetos têm como objetivo aplicar, na prática, o que venho aprendendo, com foco em **Power BI**, **SQL**, **Excel** e até **inteligência artificial gratuita**, sempre voltada para a **resolução de problemas de negócio**.
