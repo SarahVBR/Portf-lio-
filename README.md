@@ -37,3 +37,5 @@ Além disso, tenho buscado desenvolver uma visão analítica sólida, com atenç
 
 📫 [LinkedIn](https://www.linkedin.com/in/sarah-vitoria-rodrigues-4065b61a5/)
 🧠 Projetos desenvolvidos com prática, aprendizado contínuo e foco em contexto de negócio.
+
+---
