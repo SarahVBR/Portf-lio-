@@ -1,4 +1,4 @@
-# 💼 Portfólio de Projetos | Sarah Vitoria
+💼 Portfólio de Projetos | Sarah Vitoria
 
 Olá! Eu sou a **Sarah Vitoria** e este é o meu portfólio de projetos em Análise de Dados.  
 Estou iniciando minha trajetória na área e aqui você encontrará alguns dos meus **primeiros projetos práticos**, desenvolvidos enquanto aprofundo meus estudos em ferramentas e conceitos fundamentais da profissão.
@@ -15,7 +15,8 @@ Além disso, tenho buscado desenvolver uma visão analítica sólida, com atenç
 |--------|-----------|
 | [01 - Supermercado com IA](./01-supermercado-ia) | Análise de vendas com apoio de IA gratuita para gerar perguntas e insights do negócio. |
 | [02 - SQL + Power BI](./02-sql-powerbi) | Projeto com manipulação dos dados no SQL e criação de dashboard final no Power BI. |
-| [03 - Excel + Power BI](./03-excel-powerbi) | Análise a partir de planilhas Excel com visualização interativa em Power BI. |
+| [03 - PBI + Figma  Insights da Play Store](./03-pbi-figma-playstore) | Projeto com foco no design visual e na experiência do usuário usando o Figma. A análise foi feita no Power BI, mas o dashboard completo foi desenvolvido no Figma, destacando domínio estético, organização da informação e storytelling com dados. |
+| [04 - Excel + Power BI](./04-excel-powerbi) | Análise a partir de planilhas Excel com visualização interativa em Power BI. |
 
 ---
 
@@ -27,6 +28,7 @@ Além disso, tenho buscado desenvolver uma visão analítica sólida, com atenç
 - Python (primeiros passos voltados à análise de dados)
 - Power Automate (integrações e automações com Power BI)
 - IA aplicada à análise de dados
+- **Automatização de processos com n8n e agentes de IA**
 - **Storytelling com dados**
 - **Divisão de negócios e tipos de análise** (descritiva, diagnóstica, preditiva, prescritiva)
 - Interesse em ferramentas de **cloud computing**, como **AWS**
@@ -35,5 +37,5 @@ Além disso, tenho buscado desenvolver uma visão analítica sólida, com atenç
 
 ## 🤝 Contato
 
-📫 [LinkedIn](https://www.linkedin.com/in/sarah-vitoria-rodrigues-4065b61a5/)
+📫 [LinkedIn](https://www.linkedin.com/in/sarah-vitoria-rodrigues-4065b61a5/)  
 🧠 Projetos desenvolvidos com prática, aprendizado contínuo e foco em contexto de negócio.

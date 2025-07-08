@@ -125,13 +125,17 @@ O dashboard foi dividido em dois painéis principais:
 
 ### Visuais do Dashboard
 
-![Dashboard](imagens/Dash.png)
+![Dashboard](imagens/DASH1.png)
+
+![Dashboard](imagens/DASH2.png)
+
+![Dashboard](imagens/DASH3.png)
 
 #### Acesse o Dashboard Interativo
 
 Você pode acessar a versão publicada do dashboard no Power BI clicando no link abaixo:
 
-[Acesse](https://app.powerbi.com/reportEmbed?reportId=b7b429e9-c20e-456f-a809-a78614d44f75&autoAuth=true&ctid=659ce2b8-0714-4198-8c38-dc9b60aabb57)
+[Acesse]https://app.powerbi.com/view?r=eyJrIjoiMTkzNGU4MTEtNTg0Ni00ZDEyLWI1ZTEtY2EzYTQ3NjRkMjlhIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 
 ## Principais Insights gerados
