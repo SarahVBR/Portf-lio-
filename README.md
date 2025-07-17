@@ -22,7 +22,7 @@ Meu objetivo é evoluir cada vez mais como analista de dados, com um olhar técn
 | [03 - PBI + Figma  Insights da Play Store](./03-pbi-figma-playstore) | Projeto com foco no design visual e na experiência do usuário usando o Figma. A análise foi feita no Power BI, mas o dashboard completo foi desenvolvido no Figma, destacando domínio estético, organização da informação e storytelling com dados. |
 | [04 - Excel + Power BI](./04-excel-powerbi) | Análise a partir de planilhas Excel com visualização interativa em Power BI. |
 | [05 - ETL, Modelagem e DAX](./05-ETL_Modelagem) | Projeto focado na construção de processos básicos de ETL, organização e modelagem de dados, além da criação de métricas funcionais e simples em DAX para dashboards no Power BI. |
-| [06 - Power Automate](./06-Power Automate) | Automação simples e prática para salvar anexos (.xlsx) de e-mails diretamente no Google Drive, com notificações instantâneas no celular e registro automático em planilha de controle. |
+| [06 - Power Automate](./06-PowerAutomate) | Automação simples e prática para salvar anexos (.xlsx) de e-mails diretamente no Google Drive, com notificações instantâneas no celular e registro automático em planilha de controle. |
 | [07 - Python]
 
 ---
