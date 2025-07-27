@@ -46,4 +46,5 @@ Meu objetivo é evoluir cada vez mais como analista de dados, com um olhar técn
 ## 🤝 Contato
 
 📫 [LinkedIn](https://www.linkedin.com/in/sarah-vitoria-rodrigues-4065b61a5/)  
+
 🧠 Projetos desenvolvidos com prática, aprendizado contínuo e foco em contexto de negócio.
