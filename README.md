@@ -23,7 +23,7 @@ Meu objetivo é evoluir cada vez mais como analista de dados, com um olhar técn
 | [04 - Excel + Power BI](./04-excel-powerbi) | Análise a partir de planilhas Excel com visualização interativa em Power BI. |
 | [05 - ETL, Modelagem e DAX](./05-ETL_Modelagem) | Projeto focado na construção de processos básicos de ETL, organização e modelagem de dados, além da criação de métricas funcionais e simples em DAX para dashboards no Power BI. |
 | [06 - Power Automate](./06-PowerAutomate) | Automação simples e prática para salvar anexos (.xlsx) de e-mails diretamente no Google Drive, com notificações instantâneas no celular e registro automático em planilha de controle. |
-| [07 - Python]
+| [07 - Python](./07-Python) | Análise de vendas por loja, envio de relatório por e-mail de forma automática. |
 
 ---
 
