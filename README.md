@@ -1,50 +1,36 @@
-# 💼 Portfólio de Projetos | Sarah Vitoria
+# 👋 Olá! Eu sou a Sarah Vitória
 
-Olá! Eu sou a **Sarah Vitoria** e este é o meu portfólio de projetos em Análise de Dados.  
-Estou iniciando minha trajetória na área e aqui você encontrará alguns dos meus **primeiros projetos práticos**, desenvolvidos enquanto aprofundo meus estudos em ferramentas e conceitos fundamentais da profissão.
+🎯 Em formação como Analista de Dados, com foco em transformar dados em soluções inteligentes que apoiam decisões estratégicas, otimizam processos e geram impacto real nos negócios.
 
-Todos os projetos têm como objetivo aplicar, na prática, o que venho aprendendo, com foco em **Power BI**, **SQL**, **Excel** e até **inteligência artificial gratuita**, sempre voltada para a **resolução de problemas de negócio**.
+Atualmente focada em:
 
-Além disso, tenho buscado desenvolver uma visão analítica sólida, com atenção à **estrutura dos dados**, ao **storytelling com dados** e à **lógica por trás dos indicadores**.
+**📊 Análise e Visualização de Dados**
+- SQL, Power BI e Excel
 
-Tenho interesse em aprender o **idioma inglês** e estou dando os primeiros passos para ampliar minhas oportunidades e a comunicação com profissionais do mundo todo.
+**🐍 Programação e Automação**
+- Python para análise e automações
+- Power Automate e n8n com agentes de IA
 
-Meu objetivo é evoluir cada vez mais como analista de dados, com um olhar técnico, estratégico e humano para os dados.
+**🤖 Inteligência Artificial Aplicada à Análise**
+- IA gratuita para geração de insights
 
----
+**☁️ Cloud Computing**
+- Interesse em AWS e conceitos de computação em nuvem
 
-## 📁 Projetos
-
-| Projeto | Descrição |
-|--------|-----------|
-| [01 - Supermercado com IA](./01-supermercado-ia) | Análise de vendas com apoio de IA gratuita para gerar perguntas e insights do negócio. |
-| [02 - SQL + Power BI](./02-sql-powerbi) | Projeto com manipulação dos dados no SQL e criação de dashboard final no Power BI. |
-| [03 - PBI + Figma  Insights da Play Store](./03-pbi-figma-playstore) | Projeto com foco no design visual e na experiência do usuário usando o Figma. A análise foi feita no Power BI, mas o dashboard completo foi desenvolvido no Figma, destacando domínio estético, organização da informação e storytelling com dados. |
-| [04 - Excel + Power BI](./04-excel-powerbi) | Análise a partir de planilhas Excel com visualização interativa em Power BI. |
-| [05 - ETL, Modelagem e DAX](./05-ETL_Modelagem) | Projeto focado na construção de processos básicos de ETL, organização e modelagem de dados, além da criação de métricas funcionais e simples em DAX para dashboards no Power BI. |
-| [06 - Power Automate](./06-PowerAutomate) | Automação simples e prática para salvar anexos (.xlsx) de e-mails diretamente no Google Drive, com notificações instantâneas no celular e registro automático em planilha de controle. |
-| [07 - Python](./07-Python) | Análise de vendas por loja, criação e envio de relatório por e-mail de forma automática. |
-| [08 - Solucao_Dados_IA_Gestao_Canais_Criticos](./08-Solucao_Dados_IA_Gestao_Canais_Criticos) | Automação, classificação inteligente e apoio à tomada de decisão. |
----
-
-## 🔧 Tecnologias e conhecimentos em desenvolvimento
-
-- Power BI (ETL, visualizações, relacionamentos, DAX)  
-- SQL (consultas, joins, subqueries...)  
-- Excel (principais fórmulas, tabela dinâmica...)  
-- Python (primeiros passos voltados à análise de dados)  
-- Power Automate (integrações e automações com Power BI)  
-- IA aplicada à análise de dados  
-- **Automatização de processos com n8n e agentes de IA**  
-- **Storytelling com dados**  
-- **Divisão de negócios e tipos de análise** (descritiva, diagnóstica, preditiva, prescritiva)  
-- Interesse em ferramentas de **cloud computing**, como **AWS**  
-- Interesse em aprender o **idioma inglês** para ampliar oportunidades profissionais e comunicação global  
+Busco desenvolver soluções que combinam **tecnologia + análise + automação**, tornando os processos mais ágeis e inteligentes.
 
 ---
 
-## 🤝 Contato
+## 📊 Projetos Iniciais
 
-📫 [LinkedIn](https://www.linkedin.com/in/sarah-vitoria-rodrigues-4065b61a5/)  
+Confira meus projetos no repositório de portfólio clicando no link abaixo:
 
-🧠 Projetos desenvolvidos com prática, aprendizado contínuo e foco em contexto de negócio.
+🔗 [Ver todos os projetos no Portfólio](https://github.com/SarahVBR/Portf-lio-)
+
+⚠️ Para ver os detalhes dos projetos (se for preciso) clique em "README" dentro da pasta do projeto.
+
+---
+
+## 📫 Contato
+
+🔗 [Meu LinkedIn](https://www.linkedin.com/in/sarah-vitoria-rodrigues-4065b61a5/)
