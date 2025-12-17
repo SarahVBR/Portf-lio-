@@ -24,7 +24,7 @@ Meu objetivo é evoluir cada vez mais como analista de dados, com um olhar técn
 | [05 - ETL, Modelagem e DAX](./05-ETL_Modelagem) | Projeto focado na construção de processos básicos de ETL, organização e modelagem de dados, além da criação de métricas funcionais e simples em DAX para dashboards no Power BI. |
 | [06 - Power Automate](./06-PowerAutomate) | Automação simples e prática para salvar anexos (.xlsx) de e-mails diretamente no Google Drive, com notificações instantâneas no celular e registro automático em planilha de controle. |
 | [07 - Python](./07-Python) | Análise de vendas por loja, criação e envio de relatório por e-mail de forma automática. |
-
+| [08 - Solucao_Dados_IA_Gestao_Canais_Criticos](./08-Solucao_Dados_IA_Gestao_Canais_Criticos) | Automação, classificação inteligente e apoio à tomada de decisão. |
 ---
 
 ## 🔧 Tecnologias e conhecimentos em desenvolvimento
